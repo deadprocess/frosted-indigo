@@ -6,7 +6,7 @@
 | Overview | Terminal |
 |:---:|:---:|
 | ![Desktop overview](./dotfiles_1.png) | ![Kitty terminal](./dotfiles_2.png) |
-| Launcher | Bar / Widgets |
+| Various programs | Other |
 | ![wofi launcher](./dotfiles_3.png) | ![Quickshell bar](./dotfiles_4.png) |
 
 
