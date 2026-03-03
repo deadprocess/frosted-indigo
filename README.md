@@ -3,7 +3,7 @@
 
 ## ☆ Screenshots ☆
 
-| Screenshot 1 | Screenshot 2 |
+| Overview | Terminal |
 |:---:|:---:|
 | ![Desktop overview](./dotfiles_1.png) | ![Kitty terminal](./dotfiles_2.png) |
 | Launcher | Bar / Widgets |
